@@ -1,0 +1,17 @@
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\SatO2_V1.exe
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\SatO2_V1.deps.json
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\SatO2_V1.runtimeconfig.json
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\SatO2_V1.dll
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\SatO2_V1.pdb
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\bin\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.AssemblyInfoInputs.cache
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.AssemblyInfo.cs
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.csproj.CoreCompileInputs.cache
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.csproj.Up2Date
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.dll
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\refint\SatO2_V1.dll
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.pdb
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\SatO2_V1.genruntimeconfig.cache
+C:\Users\bolon\Videos\Aplicaciones Papa\SatO2_V1\SatO2_V1\SatO2_V1\obj\Debug\net8.0-windows10.0.19041.0\ref\SatO2_V1.dll

@@ -1,7 +1,0 @@
-C:\Users\bolon\Desktop\spo2 papa\SatO2_WinForms.exe
-C:\Users\bolon\Desktop\spo2 papa\SatO2_WinForms.dll
-C:\Users\bolon\Desktop\spo2 papa\SatO2_WinForms.deps.json
-C:\Users\bolon\Desktop\spo2 papa\SatO2_WinForms.runtimeconfig.json
-C:\Users\bolon\Desktop\spo2 papa\SatO2_WinForms.pdb
-C:\Users\bolon\Desktop\spo2 papa\Microsoft.Windows.SDK.NET.dll
-C:\Users\bolon\Desktop\spo2 papa\WinRT.Runtime.dll
